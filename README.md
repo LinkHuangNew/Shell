@@ -6,5 +6,5 @@
 *JiHan 2018.02.06*
 
 ----
-Using in SW platform
+Using in SW platform\
 You can creat a new command by youself.
